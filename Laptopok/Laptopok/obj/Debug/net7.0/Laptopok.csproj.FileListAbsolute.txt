@@ -1,0 +1,14 @@
+C:\Users\b19kövesdit\source\repos\Laptopok\Laptopok\bin\Debug\net7.0\Laptopok.exe
+C:\Users\b19kövesdit\source\repos\Laptopok\Laptopok\bin\Debug\net7.0\Laptopok.deps.json
+C:\Users\b19kövesdit\source\repos\Laptopok\Laptopok\bin\Debug\net7.0\Laptopok.runtimeconfig.json
+C:\Users\b19kövesdit\source\repos\Laptopok\Laptopok\bin\Debug\net7.0\Laptopok.dll
+C:\Users\b19kövesdit\source\repos\Laptopok\Laptopok\bin\Debug\net7.0\Laptopok.pdb
+C:\Users\b19kövesdit\source\repos\Laptopok\Laptopok\obj\Debug\net7.0\Laptopok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b19kövesdit\source\repos\Laptopok\Laptopok\obj\Debug\net7.0\Laptopok.AssemblyInfoInputs.cache
+C:\Users\b19kövesdit\source\repos\Laptopok\Laptopok\obj\Debug\net7.0\Laptopok.AssemblyInfo.cs
+C:\Users\b19kövesdit\source\repos\Laptopok\Laptopok\obj\Debug\net7.0\Laptopok.csproj.CoreCompileInputs.cache
+C:\Users\b19kövesdit\source\repos\Laptopok\Laptopok\obj\Debug\net7.0\Laptopok.dll
+C:\Users\b19kövesdit\source\repos\Laptopok\Laptopok\obj\Debug\net7.0\refint\Laptopok.dll
+C:\Users\b19kövesdit\source\repos\Laptopok\Laptopok\obj\Debug\net7.0\Laptopok.pdb
+C:\Users\b19kövesdit\source\repos\Laptopok\Laptopok\obj\Debug\net7.0\Laptopok.genruntimeconfig.cache
+C:\Users\b19kövesdit\source\repos\Laptopok\Laptopok\obj\Debug\net7.0\ref\Laptopok.dll
